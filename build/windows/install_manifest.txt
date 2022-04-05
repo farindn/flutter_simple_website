@@ -1,0 +1,15 @@
+C:/Projects/flutter_simple_website/build/windows/runner/Debug/data/icudtl.dat
+C:/Projects/flutter_simple_website/build/windows/runner/Debug/flutter_windows.dll
+C:/Projects/flutter_simple_website/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Projects/flutter_simple_website/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Poppins-Light.ttf
+C:/Projects/flutter_simple_website/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Poppins-Medium.ttf
+C:/Projects/flutter_simple_website/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Poppins-Regular.ttf
+C:/Projects/flutter_simple_website/build/windows/runner/Debug/data/flutter_assets/assets/images/background.png
+C:/Projects/flutter_simple_website/build/windows/runner/Debug/data/flutter_assets/assets/images/btn.png
+C:/Projects/flutter_simple_website/build/windows/runner/Debug/data/flutter_assets/assets/images/ilustration.png
+C:/Projects/flutter_simple_website/build/windows/runner/Debug/data/flutter_assets/assets/images/logo.png
+C:/Projects/flutter_simple_website/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Projects/flutter_simple_website/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Projects/flutter_simple_website/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Projects/flutter_simple_website/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Projects/flutter_simple_website/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

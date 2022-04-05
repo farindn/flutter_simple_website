@@ -1,0 +1,10 @@
+^C:\PROJECTS\FLUTTER_SIMPLE_WEBSITE\BUILD\WINDOWS\CMAKEFILES\73BBB8A460FE90E5A956769A0FA44269\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
